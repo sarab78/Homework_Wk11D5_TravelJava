@@ -22,7 +22,6 @@ public class PassengerTest {
 
     @Test
     public void passengerHasNumberOfBags(){
-
         assertEquals(2, passenger.getBags());
     }
 }
